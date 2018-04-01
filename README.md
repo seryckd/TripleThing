@@ -1,9 +1,9 @@
 # TripleThing
 3-match game in Java
 
-A blatant copy of [TripleTown](http://spryfox.com/our-games/tripletown/) using the excellent free graphics from [Lost Garden](http://lunar.lostgarden.com/labels/free%20game%20graphics.html).
+A blatant reworking of [TripleTown](http://spryfox.com/our-games/tripletown/) using the excellent free graphics from [Lost Garden](http://lunar.lostgarden.com/labels/free%20game%20graphics.html). (It's no coincidence that the author of Lost Garden was also involved with TripleTown).
 
-Written in Java just for a bit of fun.
+Written in Java just for a bit of fun. I spent more time working on the animation flourishes than anything else!
 
 The latest jar can be downloaded and run using
 
