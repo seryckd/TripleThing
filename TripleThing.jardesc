@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="MacRoman" standalone="no"?>
+<jardesc>
+    <jar path="TripleThing/lib/TripleThing.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/TripleThing/TripleThing.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" mainClassHandleIdentifier="=TripleThing/src&lt;ds.triplething{TripleThing.java[TripleThing" manifestLocation="/TripleThing/lib/manifest.mf" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <file path="/TripleThing/src/ds/triplething/graphics/title.png"/>
+        <javaElement handleIdentifier="=Library/src"/>
+        <file path="/TripleThing/src/ds/triplething/graphics/factory1.png"/>
+        <file path="/TripleThing/src/ds/triplething/graphics/house3.png"/>
+        <file path="/TripleThing/src/ds/triplething/graphics/bomb.png"/>
+        <file path="/TripleThing/src/ds/triplething/graphics/factory2.png"/>
+        <file path="/TripleThing/src/ds/triplething/graphics/SplashScreen.png"/>
+        <file path="/TripleThing/src/ds/triplething/graphics/a-equals.png"/>
+        <file path="/TripleThing/src/ds/triplething/graphics/a-selected.png"/>
+        <javaElement handleIdentifier="=TripleThing/src&lt;ds"/>
+        <file path="/TripleThing/src/ds/triplething/graphics/SelectionOverlay.png"/>
+        <file path="/TripleThing/src/ds/triplething/graphics/bush.png"/>
+        <file path="/TripleThing/src/ds/triplething/graphics/SelectionMainOverlay.png"/>
+        <file path="/TripleThing/src/ds/triplething/graphics/store4.png"/>
+        <file path="/TripleThing/src/ds/triplething/graphics/house1.png"/>
+        <javaElement handleIdentifier="=TripleThing/src&lt;ds.triplething.match"/>
+        <file path="/TripleThing/src/ds/triplething/graphics/.DS_Store"/>
+        <file path="/TripleThing/src/ds/triplething/graphics/store1.png"/>
+        <javaElement handleIdentifier="=TripleThing/src&lt;ds.triplething"/>
+        <file path="/TripleThing/src/ds/triplething/graphics/question.png"/>
+        <file path="/TripleThing/src/ds/triplething/graphics/explode.png"/>
+        <file path="/TripleThing/src/ds/triplething/graphics/grass.png"/>
+        <file path="/TripleThing/src/ds/triplething/graphics/store2.png"/>
+        <file path="/TripleThing/src/ds/triplething/graphics/BgNextTile.png"/>
+        <file path="/TripleThing/src/ds/triplething/graphics/numbers.png"/>
+        <file path="/TripleThing/src/ds/triplething/graphics/store3.png"/>
+        <file path="/TripleThing/src/ds/triplething/graphics/factory3.png"/>
+        <file path="/TripleThing/src/ds/triplething/graphics/tree.png"/>
+        <file path="/TripleThing/src/ds/triplething/graphics/blank.png"/>
+        <file path="/TripleThing/src/ds/triplething/graphics/house2.png"/>
+        <file path="/TripleThing/src/ds/triplething/graphics/Rock.png"/>
+    </selectedElements>
+</jardesc>
