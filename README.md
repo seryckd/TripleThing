@@ -9,5 +9,6 @@ The latest jar can be downloaded and run using
 
     java -jar lib/TripleThing.jar
 
-[Recording of playing](https://github.com/seryckd/TripleThing/blob/master/Triple-Thing-1148x720.mov)
+It was only ever tested on OSX so I've no idea if it will run on anything else. [There's video footage here](https://seryckd.github.io/TripleThing/).
+
 
