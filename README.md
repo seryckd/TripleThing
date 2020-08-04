@@ -1,3 +1,5 @@
+![Java CI with Maven](https://github.com/seryckd/TripleThing/workflows/Java%20CI%20with%20Maven/badge.svg)
+
 # TripleThing
 3-match game in Java
 
