@@ -14,3 +14,5 @@ It was only ever tested on OSX so I've no idea if it will run on anything else. 
 *Update*
 Converted to maven. Found some old code that was pulled in that I lost the source for.
 Included as decompiled code (/utils).
+
+testing CI
