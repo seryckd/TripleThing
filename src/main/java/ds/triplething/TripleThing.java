@@ -1057,7 +1057,7 @@ public class TripleThing extends JFrame implements MouseListener, ActionListener
         		tt.init();
         		tt.setLocationRelativeTo(null);
         		s_splashDialog.dispose();
-        		tt.setVisible(true);
+        		tt.setVisible2(true);
               }
         });
 	}
