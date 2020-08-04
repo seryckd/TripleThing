@@ -12,10 +12,10 @@ import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.ScrollPaneConstants;
 
-import ds.lib.algo.HeapSort;
 import ds.triplething.Images;
 import ds.triplething.Tile;
 
+import ds.util.HeapSort;
 import net.miginfocom.swing.MigLayout;
 
 @SuppressWarnings("serial")

@@ -31,13 +31,13 @@ import javax.swing.JLayeredPane;
 import javax.swing.JPanel;
 import javax.swing.WindowConstants;
 
-import ds.lib.utils.ImageUtil;
-import ds.lib.utils.RandUtil;
 import ds.triplething.match.DisplayMatches;
 import ds.triplething.match.MatchResult;
 import ds.triplething.match.MatchResultInstance;
 import ds.triplething.match.Matches;
 
+import ds.util.ImageUtil;
+import ds.util.RandUtil;
 import net.miginfocom.swing.MigLayout;
 
 
@@ -1025,7 +1025,7 @@ public class TripleThing extends JFrame implements MouseListener, ActionListener
 	*/		
 		try {
 			
-			final BufferedImage img = ImageUtil.loadImage("ds/triplething/graphics/SplashScreen.png");
+			final BufferedImage img = ImageUtil.loadImage("graphics/SplashScreen.png");
 			
 			s_splashDialog = new JDialog() {
 	

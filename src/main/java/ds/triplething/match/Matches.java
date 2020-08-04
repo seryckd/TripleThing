@@ -4,8 +4,8 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-import ds.lib.algo.CalculatePermutations;
 import ds.triplething.Images;
+import ds.util.CalculatePermutations;
 
 public class Matches {
 

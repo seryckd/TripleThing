@@ -10,9 +10,8 @@ import java.util.Vector;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 
+import ds.util.RandUtil;
 import net.miginfocom.swing.MigLayout;
-
-import ds.lib.utils.RandUtil;
 
 /*
  * Panel that uses an image as a background

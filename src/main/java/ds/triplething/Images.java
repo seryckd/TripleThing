@@ -12,7 +12,7 @@ import javax.imageio.ImageIO;
 import javax.swing.Icon;
 import javax.swing.ImageIcon;
 
-import ds.lib.utils.ImageUtil;
+import ds.util.ImageUtil;
 
 public class Images {
 	
@@ -42,7 +42,7 @@ public class Images {
 	static public Integer ICO_A_MATCH = new Integer(43);
 	static public Integer ICO_A_MATCH_MAIN = new Integer(44);
 	
-	static String imageDir = "ds/triplething/graphics/";
+	static String imageDir = "graphics/";
 	static HashMap<Integer, String> imagePath = new HashMap<Integer, String> ();
 	
 	static HashMap<Integer, ImageIcon> icons = new HashMap<Integer, ImageIcon>();

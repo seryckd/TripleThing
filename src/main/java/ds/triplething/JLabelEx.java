@@ -1,12 +1,13 @@
 package ds.triplething;
 
+import ds.util.ImageUtil;
+
 import java.awt.Graphics;
 import java.awt.image.BufferedImage;
 import java.io.IOException;
 
 import javax.swing.JLabel;
 
-import ds.lib.utils.ImageUtil;
 
 @SuppressWarnings("serial")
 public class JLabelEx extends JLabel {

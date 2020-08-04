@@ -1,3 +1,0 @@
-Manifest-Version: 1.0
-Main-Class: ds.triplething.TripleThing
-Class-Path: miglayout-3.7.3.1.jar
