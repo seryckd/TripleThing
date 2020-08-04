@@ -281,15 +281,14 @@ public class TripleThing extends JFrame implements MouseListener, ActionListener
 			tile.setPreviewTile(nextTileList.headId());	
 	}
 
-	// temporary
-	void matchMade(MatchResultInstance match, int combo) {
-		matchMade(match.getMatchIconId(), combo);
-	}
 	/**
 	 * A match has been selected
 	 * @param match
 	 * @param combo		score multiplier
 	 */
+	void matchMade(MatchResultInstance match, int combo) {
+		matchMade(match.getMatchIconId(), combo);
+	}
 	void matchMade(Integer iconId, int combo) {
 		possibleMatches = null;
 		currentlySelectedMatch = null;
@@ -1057,7 +1056,7 @@ public class TripleThing extends JFrame implements MouseListener, ActionListener
         		tt.init();
         		tt.setLocationRelativeTo(null);
         		s_splashDialog.dispose();
-        		tt.setVisible2(true);
+        		tt.setVisible(true);
               }
         });
 	}
